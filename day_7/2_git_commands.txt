@@ -1,0 +1,12 @@
+Setup Git Configuration in local
+1. git config --global user.name "maybesayon"
+2. git config --global user.email "sayoncoldplay@gmail.com"
+3. To verify; git config --global user.name
+           git config --global user.email
+
+Initialize Repo In local
+1. git init. (Make sure you are in correct present location)
+2. git ststus => chech the current status of the repo
+3. git add . => Add all the changes to git repo
+4. git commit -m "<Commit_message>"
+
