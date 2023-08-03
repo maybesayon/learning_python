@@ -6,7 +6,11 @@ Setup Git Configuration in local
 
 Initialize Repo In local
 1. git init. (Make sure you are in correct present location)
-2. git ststus => chech the current status of the repo
+2. git status => check the current status of the repo
 3. git add . => Add all the changes to git repo
 4. git commit -m "<Commit_message>"
+5. git branch => list all the git branches
+6. git remote -v => List all the remote urls
+
+
 
