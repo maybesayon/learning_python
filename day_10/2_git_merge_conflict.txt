@@ -2,4 +2,4 @@ Merge conflict arises if we try to merge one branch to another where certain lin
 the same line of codes in other branch is committed
 a = 2
 b = 3
-print(a - b)
+print(a + b)
