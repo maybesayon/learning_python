@@ -1,5 +1,5 @@
 score = float(input("Enter your score "))
-if score >= 1.0 or score <0.0:
+if score >= 1.0 or score < 0.0:
     print("THe grade is invalid")
 elif score >= 0.9:
     print("Your grade is A")
