@@ -1,4 +1,4 @@
-# Exceptions in pyhthon are handled using try...except block
+# Exceptions in python are handled using try...except block
 
 
 try:
